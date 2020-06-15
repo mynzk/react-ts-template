@@ -19,7 +19,7 @@ const devConfig = {
     devServer: {
         contentBase: './',
         host: 'localhost',
-        port: 8080,
+        port: 8090,
         historyApiFallback: true,
         overlay: {
             //当出现编译器错误或警告时，就在网页上显示一层黑色的背景层和错误信息
